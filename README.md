@@ -12,7 +12,7 @@ docker images
 
 
 run 
-docker ps
+<code>docker ps</code>
 
 Get the Container ID of the container running kafka
 and execute:
